@@ -8,6 +8,10 @@
   },
   "author": "Jorge Ramirez",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url":  "https://www.github.com/zaguerinho/vscodetesting"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-util": "^3.0.7"
